@@ -1,9 +1,10 @@
+"use strict";
 //string[] is display thr datatype of array is string.
-var animal = ["Tiger", "Lion", "elephant", "Monkey"];
+const animal = ["Tiger", "Lion", "elephant", "Monkey"];
 //if you have few number of element in then you give datatype as follow:
-var random1 = ["abc", 987, false];
+const random1 = ["abc", 987, false];
 //If you have very large number of element in array then give any or default
-var random2 = [
+const random2 = [
     "xyz",
     123,
     true,

@@ -1,3 +1,4 @@
+"use strict";
 var Company;
 (function (Company) {
     Company[Company["Manager"] = 0] = "Manager";
